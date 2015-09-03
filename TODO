@@ -1,0 +1,14 @@
+
+Create a framework so that the same datasets can be rendered with python scripts
+
+The user should be able to change:-
+1. Height of the cameras
+2. Angle of rotation of the cameras
+3. Height of the 2 hands
+4. Rotation and gesture of the hands.
+5. Environment maps can be added and changed.
+6. Occluding objects needs to be added if user desires so/
+7. The bones should be controllable.
+8. Proper framwork has to be written
+9. Depth maps factors should be changed.
+
