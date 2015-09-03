@@ -3,6 +3,8 @@ Python based image data-set creator for hand models and corresponding depth maps
 This project contains Python + Blender source files for <b>creating data sets of hand models mainly rendered images and their corresponding depth maps.</b>
 Blender is a free and open source 3D platform. It supports 3D modeling and rendering as well as many advanced features like animation, simulation, compositing, motion tracking, video editing and game creation. I use the python scripting capacity to create an auto image dataset generator. 
 
+<b>Still working on the project ALPHA VERSION</b> 
+
 # Overview
 The project has a blender file which is already rigged with bones similar to a human hand.
 The environment maps can be set programatically. The default is a studio scene.
