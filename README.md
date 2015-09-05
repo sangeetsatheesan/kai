@@ -14,6 +14,7 @@ The idea is to have a framework for creating large number of datasets from the c
 The python will also give the key bones' location in a ".loc" file along with the depth map and the rendered image for each render.
 
 # Dependencies
+Blender 2.7
 
 
 # Getting Started
