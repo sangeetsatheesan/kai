@@ -7,7 +7,9 @@ Blender is a free and open source 3D platform. It supports 3D modeling and rende
 
 # Overview
 The project has a blender file which is already rigged with bones similar to a human hand.
-The environment maps can be set programatically. The default is a studio scene.
+The environment maps can be set programatically. 
+
+The default is a studio scene.
 There are two hand models each for the right and left hands whose bones ends with .R or .L respectively.
 The bones are configured such that the rotation is limited to mimic that of a real human hand.
 The idea is to have a framework for creating large number of datasets from the camera and the depth images for the training of artificial neural networks for hand tracking.
